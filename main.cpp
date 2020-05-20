@@ -13,7 +13,6 @@ struct uczen
 		imie =im;
 		nazwisko= nazw;
 		wiek=wie;
-		
 	}
 };
 void wypisz(struct uczen ucz)
